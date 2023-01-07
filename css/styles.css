@@ -1,0 +1,103 @@
+#profile{
+    
+    border-radius: 100%;
+    width: 20%;
+    
+}
+body{
+    margin: 0;
+    
+    text-align: center;
+}
+h1{
+    /* padding-top: 50px; */
+    /* font-size: 80px; */
+    /* font-size: 100%; this means 16px defalut 16px =100%=1em */
+    /* font-size: 500%; */
+    color: #66BFBF;
+    line-height: 2;
+    margin: 100px auto 0 auto;
+    font-size: 4rem;
+    font-family: 'Passions Conflict', sans-serif;
+
+}
+h2{
+    color: #66bfa9;
+    font-weight: normal;
+    margin:0 auto 0 auto ;
+    font-size: 2.4rem;
+    font-family: 'Kalam', cursive, sans-serif;
+}
+h3{
+    color: #9ddd8a;
+    font-weight: normal;
+    margin:0 auto 0 auto ;
+    font-size: 2.4rem;
+    font-family: 'East Sea Dokdo', cursive, sans-serif;
+}
+
+p{
+    color: #516137;
+    font-weight: normal;
+    margin:0 auto 0 auto ;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+.topcontainer{
+    background-color: rgb(188, 248, 211);
+    
+    padding-top: 50px;
+    
+}
+
+.img1{
+    position: absolute;
+    width: 10%;
+    left: 200px;
+    top: 50px; 
+}
+.img11{
+    position: absolute;
+    right: 150px;
+    top: 50px;
+    width: 10%;
+}
+.img2{
+    width: 40%;  
+}
+.middle-container{
+    background-color: rgb(217, 241, 241);
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.python{
+    width: 20%;
+}
+.electronic{
+    width: 20%;
+}
+.bottom-container{
+    padding-top: 40px;
+    background-color: rgb(250, 208, 248);
+}
+.skills{
+    margin: 50px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: rgb(41, 41, 43);
+    border-width: 3px;
+    
+    width:10%;
+    
+}
